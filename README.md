@@ -1,6 +1,6 @@
 # Recoup — Built for Fluent Software Group
 
-![Recoup Dashboard](./public/demo.gif) *(Automated browser walkthrough)*
+![Recoup Dashboard](./public/demo.gif)
 
 **Live Demo:** [recoup-gilt.vercel.app](https://recoup-gilt.vercel.app/alerts)
 
