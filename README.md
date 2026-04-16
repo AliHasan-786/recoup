@@ -1,6 +1,6 @@
 # Recoup — Built for Fluent Software Group
 
-![Recoup Dashboard](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop) *(Screenshot placeholder — replace with actual Vercel screenshot)*
+![Recoup Dashboard](./public/demo.gif) *(Automated browser walkthrough)*
 
 **Live Demo:** [recoup-gilt.vercel.app](https://recoup-gilt.vercel.app/alerts)
 
